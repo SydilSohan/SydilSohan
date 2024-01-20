@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SydilSohan
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Node.js , react, mongoDB
+- 👀 I’m a Junior Front End Developer currently working at Ayukul Technologies
+- 🌱 Adept in implementing pixel perfect code from figma or xda.
 - 💞️ I’m looking to collaborate on Web Apps
-- 📫 How to reach me ...
 
 <!---
 SydilSohan/SydilSohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
