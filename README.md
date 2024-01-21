@@ -11,7 +11,6 @@ export default () => ({<br/>
     },<br/>
     backEnd: {<br/>
       js: ["node", "express"],<br/>
-      python: ["django", "flask"],<br/>
       misc: ["supabase", "firebase", "appwrite", "pocketbase"]<br/>
     },<br/>
     databases: ["mongo"]<br/>
