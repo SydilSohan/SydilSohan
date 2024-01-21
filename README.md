@@ -1,20 +1,22 @@
-export default () => ({
-  pronouns: "He" | "Him",
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "world politics", "twitter"
-  ],
-  technologies: {
-    frontEnd: {
-      js: ["react"],
-      css: [ "bootstrap", "tailwind"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      python: ["django", "flask"],
-      misc: ["supabase", "firebase", "appwrite", "pocketbase"]
-    },
-    databases: ["mongo"]
-  },
+export default () => ({<br/>
+  pronouns: "He" | "Him",<br/>
+  askMeAbout: [<br/>
+    "webdev", "tech", "music",<br/>
+    "world politics", "twitter"<br/>
+  ],<br/>
+  technologies: {<br/>
+    frontEnd: {<br/>
+      js: ["react"],<br/>
+      css: [ "bootstrap", "tailwind"]<br/>
+    },<br/>
+    backEnd: {<br/>
+      js: ["node", "express"],<br/>
+      python: ["django", "flask"],<br/>
+      misc: ["supabase", "firebase", "appwrite", "pocketbase"]<br/>
+    },<br/>
+    databases: ["mongo"]<br/>
+  },<br/>
 
-});
+<br/>
+});<br/>
+<br/>
