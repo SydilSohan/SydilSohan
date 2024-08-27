@@ -81,5 +81,5 @@ University of Dhaka | CGPA: 3.6 | 2022
 
 ## 📫 Contact
 
-Feel free to reach out via [Email](mailto:mdsohan383@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to reach out via [Email](mailto:mdsohan383@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sydil-sohan).
 
