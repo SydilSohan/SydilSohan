@@ -1,9 +1,6 @@
   # Sydil Sohan                                                                                                                                                                                                      
                                                                                                                                                                                                                       
-   **Backend/Infrastructure Engineer • AI/ML Systems**                                                                                                                                                                
-                                                                                                                                                                                                                      
-   [![GitHub](https://img.shields.io/badge/GitHub-SydilSohan-181717?logo=github)](https://github.com/sydilsohan)                                                                                                      
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sydil--sohan-0A66C2?logo=linkedin)](https://www.linkedin.com/in/sydil-sohan)                                                                                    
+   **Backend/Infrastructure Engineer • AI/ML Systems**                                                                                                                                                    
                                                                                                                                                                                                                       
    📧 mdsohan383@gmail.com • 📍 Dhaka, Bangladesh                                                                                                                                                                     
                                                                                                                                                                                                                       
